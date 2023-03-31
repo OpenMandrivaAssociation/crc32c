@@ -4,7 +4,7 @@
 
 Name: crc32c
 Version: 1.1.3
-Release: 0.20230104.1
+Release: 0.20230104.2
 Source0: https://github.com/google/crc32c/archive/refs/heads/main.tar.gz
 Summary: CRC32c library with support for CPU specific acceleration instructions
 URL: https://github.com/google/crc32c
